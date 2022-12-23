@@ -16,7 +16,7 @@ library(ggpubr);
 
 MyDir <- "H:/tmp/ML"
 setwd(MyDir)
-set.seed(10)
+
 
 ### processing inhouse data
 ## gene-protein mapping through DAVID
@@ -157,7 +157,7 @@ dd_exp_training=exp_data[which(exp_data[, "cohort"] == "Training"), c("subtype",
 dd_exp_testing=exp_data[which(exp_data[, "cohort"] == "Testing"), c("subtype", genes)];
 
 #Begin to build models
-
+set.seed(1)
 #Logistic regression
 logitMod1 <- glm(formula=subtype ~ ., data=dd_exp_training, family="binomial")
 summary(logitMod1)
