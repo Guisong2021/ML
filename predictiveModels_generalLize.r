@@ -1,5 +1,7 @@
 
-### 
+### this version is not for generalized use
+Copyright © 2022 by Guisong Wang
+
 rm(list=ls());
 library(gbm) #generalized boosted models
 library(randomForest) #random forest
