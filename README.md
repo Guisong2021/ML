@@ -3,7 +3,7 @@
 
 cancers-1799702-supplementary-R Supplement.pdf
 
-### R codes for feature selection, model selection and performance evaluation with ROC
+### R codes for model selection and performance evaluation with ROC (did not use feature selection)
 predictiveModels_generalLize.r
 ### Pyhon codes for feature selection, model selection and performance evaluation with ROC
 predictiveModels_generalize.py
