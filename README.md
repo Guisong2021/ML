@@ -6,7 +6,7 @@ cancers-1799702-supplementary-R Supplement.pdf
 
 The PDF file was generated using R markdown
 
-### R codes for model selection and performance evaluation with ROC (did not use feature selection)
+### R codes for machine learning with logistic regression, Random forest and Generalized Boosted regression models. Built the models from training cohort, applied to the testing and validation cohort,  and performed performance evaluation with ROC (did not use feature selection)
 predictiveModels_generalLize.r
-### Pyhon codes for feature selection, model selection and performance evaluation with ROC
+### Pyhon codes for machine learning with logistic regression, Random forest and Extreme gradient boosting. Performed model selection and feature selection from training cohort first, then Built the selected models with the selected features from training cohort, applied to the testing and validation cohort,  and performed performance evaluation with ROC
 predictiveModels_generalize.py
