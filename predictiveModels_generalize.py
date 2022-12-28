@@ -324,5 +324,5 @@ for i in range(len(datasets)):
         if re.match(nm, "Logit_linear_l1"):
             db[nm] =  mod.predict_proba(db[features_linear_l1])[:,1]
     #recid_train[nm]=mod.predict_proba(recid_train[ind_vars][:, 1]
-    filename="AUC_"+db_name+".png";
+    filename="AUC_"+db_name+"_by_python.png";
     auc_plot(db, y_var, ["RF", "XGB",   "Logit_saga_l1",  "Logit_linear_l1"], db_name,  save_plot=filename)
