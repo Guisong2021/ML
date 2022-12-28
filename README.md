@@ -1,4 +1,4 @@
-# R and Python example codes by Guisong Wang
+# R and Python example codes
 ### R codes (published as the supplementary in the paper: Improving Risk Assessment for Metastatic Disease in Endometrioid Endometrial Cancer Patients Using Molecular and Clinical Features: An NRG Oncology/Gynecologic Oncology Group Study
 
 cancers-1799702-supplementary-R Supplement.pdf
