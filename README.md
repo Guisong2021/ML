@@ -1,7 +1,7 @@
 # R and Python example codes
 ### The generalized R codes 
 The codes was published as the supplementary in the paper: 
-Improving Risk Assessment for Metastatic Disease in Endometrioid Endometrial Cancer Patients Using Molecular and Clinical Features: An NRG Oncology/Gynecologic Oncology Group Study
+<i>Improving Risk Assessment for Metastatic Disease in Endometrioid Endometrial Cancer Patients Using Molecular and Clinical Features: An NRG Oncology/Gynecologic Oncology Group Study</i>
 
 cancers-1799702-supplementary-R Supplement.pdf
 
